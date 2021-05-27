@@ -1,8 +1,10 @@
 # autohotkey_scripts
+
 Autohotkey scripts - most for left-handed keyboard use
 
-## put this in your autohotkey. Refesh. Comments inline.
+## put this in your autohotkey. Refesh. Comments inline
 
+```
 ; ^=ctrl    !=alt    +=shift
 
 ; ALT-TAB -> makes right alt plus certain buttons mirror ALT+TAB
@@ -31,3 +33,4 @@ RAlt & ]:: AltTab
 ; makes CTRL + 0 = ALT + `
 ;^`::^Numpad0
 ; `::MsgBox, BackTick Pressed
+```
