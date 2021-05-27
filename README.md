@@ -1,8 +1,6 @@
 # autohotkey_scripts
 
-Autohotkey scripts - most for left-handed keyboard use
-
-## put this in your autohotkey. Refesh. Comments inline
+Autohotkey scripts. Most for left-handed keyboard use. Put in your autohotkey config file. Refresh. Comments inline.
 
 ```
 ; ^=ctrl    !=alt    +=shift
