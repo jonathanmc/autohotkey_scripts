@@ -3,7 +3,7 @@
 Autohotkey scripts. Most for left-handed keyboard use. Put in your autohotkey config file. Refresh. Comments inline.
 
 ```
-; ^=ctrl    !=alt    +=shift
+; ^ = ctrl    ! = alt    + = shift
 
 ; ALT-TAB -> makes right alt plus certain buttons mirror ALT+TAB
 RAlt & \:: ShiftAltTab
